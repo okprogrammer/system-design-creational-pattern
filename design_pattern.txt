@@ -1,0 +1,21 @@
+Design Patterns:
+1. Creational
+2. Structural
+3. Behavioural
+
+Creational:
+Its deals with the process of creation of object of classess
+
+1. Builder
+2. Simple Factory
+3.  Factory method
+4. Prototype
+5. Singelton
+6. Abstract Factory
+7. Object Pool
+
+Structural:
+deal with how classes and object should arranged or composed.
+
+Behavioural:
+describe how classes and objects interact and communicate with each other.
